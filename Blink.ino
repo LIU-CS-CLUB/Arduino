@@ -19,7 +19,7 @@
   modified 8 Sep 2016
   by Colby Newman
 */
-#define LED 13
+#define LED 13              //Pin 13 + ground
 
 // the setup function runs once when you press reset or power the board
 void setup() {
